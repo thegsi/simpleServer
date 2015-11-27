@@ -22,8 +22,12 @@
   },
   "homepage": "https://github.com/SimonLab/simpleServer#readme",
   "dependencies": {
+    "env2": "^2.0.4",
     "hapi": "^11.1.0",
-    "hoek": "^3.0.1"
+    "hapi-auth-google": "^1.0.6",
+    "hoek": "^3.0.1",
+    "inert": "^3.2.0",
+    "stripe": "^4.0.0"
   },
   "devDependencies": {
     "code": "^2.0.1",
